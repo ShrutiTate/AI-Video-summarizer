@@ -97,9 +97,4 @@ streamlit run app.py
 
 This project is licensed under the MIT License.
 
-```
 
-I can also create a **ready-to-paste `requirements.txt`** for this project so anyone can install dependencies quickly.  
-
-Do you want me to do that?
-```
